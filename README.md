@@ -9,4 +9,4 @@ How to use ?
 
 -----------------------
 
-Transfer the contents of the folder to Templates dir in your /home
+Transfer the contents of the folder to Templates dir in your /home/Templates/
